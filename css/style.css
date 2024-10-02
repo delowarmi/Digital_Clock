@@ -1,0 +1,34 @@
+*{
+        margin: 0;
+        padding: 0;
+}
+ul,li{
+        text-decoration: none;
+        list-style-type: none;
+}
+.container{
+        margin-top: 300px;
+        margin-left: 500px;
+        
+}
+#date{
+        color: #000;
+        font-size: 50px;
+        font-weight: 700;
+}
+
+ul{
+        display: flex;
+        padding-top: 10px;
+        padding: 20px;
+}
+li{
+        font-size: 60px;
+        font-weight: 500;
+}
+#spech{
+        color: red;
+        padding: 0 5px;
+        font-size: 50px;
+        font-weight: 700;
+}
